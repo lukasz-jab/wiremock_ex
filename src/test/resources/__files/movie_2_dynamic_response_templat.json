@@ -1,0 +1,7 @@
+  {
+    "movie_id": "{{request.path.[3]}}",
+    "name": "Dark Knight",
+    "year": 2008,
+    "cast": "Christian Bale, Heath Ledger , Michael Caine",
+    "release_date": "2008-07-18"
+  }

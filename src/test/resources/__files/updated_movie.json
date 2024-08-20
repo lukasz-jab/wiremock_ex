@@ -1,0 +1,7 @@
+{
+  "movie_id": "{{request.path.[3]}}",
+  "name": "The Dark Knight Rises",
+  "year": 2012,
+  "cast": "Christian Bale, Heath Ledger , Michael Caine {{jsonPath request.body '$.cast'}}",
+  "release_date": "2012-07-20"
+}
